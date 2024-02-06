@@ -1,0 +1,2 @@
+# hw-sqaures
+squares
